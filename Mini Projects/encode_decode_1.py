@@ -1,0 +1,5 @@
+orignal = input("Enter massage you want to encode : ")
+encode_ = orignal.encode("utf_16")
+print(encode_)
+decode_ = encode_.decode("utf_16")
+print(decode_)
