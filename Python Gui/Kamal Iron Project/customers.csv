@@ -1,2 +1,3 @@
-Name,Address,Phone1,Phone2,Item1,Item2,Item3,item4,Total
-Kamal Iron,Chakwal,32,53435465342,"('Steel 1/4', '100', '200')","('Steel 1/2', '200', '303')","('Cement', '300', '5434')","('Plastic', '400', '45434')",19884400
+Date,Name,Address,Phone1,Phone2,  Total  ,  Payment Recived  ,  Payment Remaning  ,Remaning Due Date,Item 1,Item 2,Item 3,Item 4,Item 5,Item 6,Item 7
+"Sunday, 30 January 2022",Kamal Iron,Chakwal,928392,," Rs300,000 "," Rs300,000 ", Rs- ,,"('Cement', '600', '500')","('', '0', '0')","('', '0', '0')","('', '0', '0')","('', '0', '0')","('', '0', '0')","('', '0', '0')"
+30/01/2022,Umair,Udhwal,3213324,1342324," Rs339,600 "," Rs300,000 "," Rs39,600 ",30-02-2020,"('Karachi Steel', '400', '239')","('Cement', '610', '400')","('', '0', '0')","('', '0', '0')","('', '0', '0')","('', '0', '0')","('', '0', '0')"
